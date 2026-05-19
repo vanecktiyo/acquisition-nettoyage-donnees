@@ -1,0 +1,33 @@
+# Environnements virtuels
+tp1_env/
+venv/
+.env/
+__pycache__/
+*.pyc
+
+# Données brutes (trop volumineuses pour git)
+*.csv
+*.csv.gz
+*.parquet
+*.gz
+
+# Fichiers générés / caches
+*.pkl
+*.sqlite
+geocache.json
+*.html
+
+# Images générées
+rapport_trimestriel.png
+analyse_geospatiale.png
+histogramme_coordonnees.png
+output.png
+top_flop_communes.png
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Jupyter
+.ipynb_checkpoints/
