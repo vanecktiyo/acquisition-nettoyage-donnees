@@ -2,7 +2,7 @@
 
 **Université Catholique de Lille**  
 **Auteur :** Vaneck Duramel DAGAR TIYO  
-**Binôme :** Jean-Daniel KITIHOUN (TP2, TP3, TP4, TP5)
+**Binôme :** Jean-Daniel KITIHOUN
 
 Série de 5 travaux pratiques couvrant l'ensemble du cycle de vie de la donnée : acquisition, transformation, enrichissement par APIs et scraping, puis nettoyage avancé.
 
